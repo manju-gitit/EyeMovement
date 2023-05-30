@@ -1,5 +1,8 @@
 # EyeMovement
- <p>eyes will follow the mouse movement on a web page simulating the movement of mass</p> 
+ <p>Eyes will follow the mouse movement on a web page simulating the movement of mass</p> 
+ <p>
+  <img src="./oneeye.png" height="200" width="350">
+ </p>
 <h2>How to Run:</h2>
 <ul>
   <li>clone this repo git@github.com:manju-gitit/EyeMovement.git </li>
